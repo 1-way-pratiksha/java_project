@@ -1,2 +1,2 @@
 # java_project
-i am succefully completed codesoft java progamming internship
+i have succefully completed codesoft java progamming internship
